@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.star {
+    font-size: 30px;
+    color: gray;
+    cursor: pointer;
+  }
+  
+  .star.active {
+    color:darkgoldenrod;
+  }
+  
